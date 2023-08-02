@@ -1,11 +1,11 @@
 {
   "title": "Hub",
   "index": "Terms and conditions",
-  "breadcrumb": false,
   "about": {
     "title": "About us",
     "type": "page"
   },
+  
 
     "Configurator": {
       "title": "Price Configurator ↗",
@@ -24,7 +24,18 @@
       "title": "Go back to main website ↗",
       "type": "page",
       "href": "https://vinylmasters-ltd.uk/",
-      "newWindow": true }
+      "newWindow": true },
       
-  
+      "index": {
+        "title": "Home",
+        "theme": {
+          "breadcrumb": false,
+          "footer": true,
+          "sidebar": false,
+          "toc": true,
+          "pagination": false
+        }
+      }
+
 }
+
