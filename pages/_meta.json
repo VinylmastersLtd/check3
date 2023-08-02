@@ -1,6 +1,6 @@
 {
-  "": "Legal Hub",
-  "Legal": "Legal Documents",
+  "title": "Hub",
+  "index": "Terms and conditions",
   "about": {
     "title": "About us",
     "type": "page"
