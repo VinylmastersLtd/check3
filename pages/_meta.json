@@ -1,5 +1,6 @@
 {
   "index": "Terms and conditions",
+  "Privacy Policy": "Privacy Policy",
   "about": {
     "title": "About us",
     "type": "page"
@@ -28,7 +29,6 @@
       "index": {
         "title": "Terms and conditions",
         "theme": {
-          "typesetting": "article",
           "breadcrumb": false,
           "footer": true,
           "sidebar": true,
