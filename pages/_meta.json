@@ -1,8 +1,10 @@
 {
-  "github_link": {
-    "title": "Nextra"},
+
+  
   "index": "Terms and conditions",
   "Privacy Policy": "Privacy Policy",
+  "Cookie Policy": "Cookies",
+  "Acceptable use policy": "Acceptable use policy",
   "about": {
     "title": "About us",
     "type": "page"

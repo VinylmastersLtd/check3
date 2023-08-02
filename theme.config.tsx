@@ -10,7 +10,7 @@ export default {
   ),
 
   primaryHue: {
-    light: 47,
+    light: 46,
     dark: 12,
   },
 
