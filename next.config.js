@@ -9,7 +9,7 @@ module.exports = withNextra()
 module.exports = {
   headers: () => [
     {
-      source: '/:https://check2-tan.vercel.app/',
+      source: '/:https://check3-tan.vercel.app/',
       headers: [
         {
           key: 'Cache-Control',
