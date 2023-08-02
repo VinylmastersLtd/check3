@@ -1,15 +1,15 @@
 {
   "index": "Terms and conditions",
-  "price_link": {
-    "title": "Price Configurator ↗",
-    "href": "https://github.com/shuding/nextra"
-  },
-  "Privacy Policy": "Privacy Policy",
-  "Cookie policy": "Cookies",
-  "Acceptable use policy": "Acceptable use policy",
+  "privacy": "Privacy Policy",
+  "cookie": "Cookies",
+  "acceptable": "Acceptable use policy",
   "about": {
     "title": "About us",
-    "type": "page"
+    "type": "page",
+    "price_link": {
+      "title": "Price Configurator ↗",
+      "href": "https://github.com/shuding/nextra"
+    }
   
   },
   
