@@ -1,5 +1,8 @@
 {
   "index": "Terms and conditions",
+  "---": {
+    "type": "separator"
+  },
   "Privacy Policy": "Privacy Policy",
   "about": {
     "title": "About us",
