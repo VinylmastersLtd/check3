@@ -3,13 +3,16 @@
   "privacy": "Privacy Policy",
   "cookie": "Cookies",
   "acceptable": "Acceptable use policy",
+  "price_link": {
+    "title": "Price Configurator ↗",
+    "href": "https://github.com/shuding/nextra"},
+    "Request_link": {
+      "title": "Request Quotation ↗",
+      "href": "https://github.com/shuding/nextra"},
   "about": {
     "title": "About us",
-    "type": "page",
-    "price_link": {
-      "title": "Price Configurator ↗",
-      "href": "https://github.com/shuding/nextra"
-    }
+    "type": "page"
+
   
   },
   
