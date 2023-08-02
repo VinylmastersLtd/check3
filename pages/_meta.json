@@ -1,5 +1,4 @@
 {
-  "title": "hub",
   "index": "Terms and conditions",
   "about": {
     "title": "About us",
@@ -27,13 +26,15 @@
       "newWindow": true },
       
       "index": {
-        "title": "hub",
+        "title": "Terms and conditions",
         "theme": {
+          "typesetting": "article",
           "breadcrumb": false,
           "footer": true,
           "sidebar": true,
           "toc": true,
           "pagination": true
+          
         }
       }
 
