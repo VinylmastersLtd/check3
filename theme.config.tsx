@@ -1,4 +1,10 @@
 export default {
+
+  primaryHue: {
+    light: 47,
+    dark: 47,
+  },
+  
   project: {
     link: 'https://vinylmasters-ltd.uk/',
   },
@@ -9,12 +15,7 @@ export default {
     </>
   ),
 
-  primaryHue: {
-    light: 46,
-    dark: 12,
-  },
 
-  
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
     text: 'Nextra Docs Template',
@@ -31,7 +32,7 @@ export default {
 
 
   "sidebar": {
-    "togglebutton": false
+    "togglebutton": true
   }
 
   
