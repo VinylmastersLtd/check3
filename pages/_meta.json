@@ -27,7 +27,7 @@
       "newWindow": true },
       
       "index": {
-        "title": "Home",
+        "title": "hub",
         "theme": {
           "breadcrumb": false,
           "footer": true,
