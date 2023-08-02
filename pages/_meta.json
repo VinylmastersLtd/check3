@@ -3,7 +3,8 @@
   "index": "Terms and conditions",
   "about": {
     "title": "About us",
-    "type": "page"
+    "type": "page",
+    "index": "Terms and conditions",
   },
   
 
