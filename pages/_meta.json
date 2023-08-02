@@ -5,10 +5,12 @@
   "acceptable": "Acceptable use policy",
   "price_link": {
     "title": "Price Configurator ↗",
-    "href": "https://github.com/shuding/nextra"},
+    "href": "https://github.com/shuding/nextra",
+    "newWindow": true},
     "Request_link": {
       "title": "Request Quotation ↗",
-      "href": "https://github.com/shuding/nextra"},
+      "href": "https://github.com/shuding/nextra",
+      "newWindow": true},
   "about": {
     "title": "About us",
     "type": "page"
@@ -16,19 +18,6 @@
   
   },
   
-
-    "Configurator": {
-      "title": "Price Configurator ↗",
-      "type": "page",
-      "href": "https://vinylmasters-ltd.uk/Price-Configurator",
-      "newWindow": true },
-
-      "contact": {
-        "title": "Request Quotation ↗",
-        "type": "page",
-        "href": "https://vinylmasters-ltd.uk/#Contact",
-        "newWindow": true },
-    
 
     "Main Page": {
       "title": "Go back to main website ↗",
