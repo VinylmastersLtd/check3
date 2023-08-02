@@ -1,16 +1,10 @@
-
 {
-  "legal hub": "legal hub",
+  "index": "Home",
+  "Legal": "Legal Documents",
   "about": {
     "title": "About us",
     "type": "page"
   },
-
-  "Legal Hub": {
-    "title": "Legal Hub",
-    "type": "page",
-    "href": "https://check-red.vercel.app/",
-    "newWindow": false },
 
     "Configurator": {
       "title": "Price Configurator ↗",
