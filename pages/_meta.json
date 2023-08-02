@@ -6,7 +6,7 @@
   "about": {
     "title": "About us",
     "type": "page",
-    "github_link": {
+    "price_link": {
       "title": "Price Configurator ↗",
       "href": "https://github.com/shuding/nextra"
     }
