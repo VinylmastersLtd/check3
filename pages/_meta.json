@@ -1,6 +1,7 @@
 {
   "title": "Hub",
   "index": "Terms and conditions",
+  "breadcrumb": false,
   "about": {
     "title": "About us",
     "type": "page"
