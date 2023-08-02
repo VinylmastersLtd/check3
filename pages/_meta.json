@@ -1,0 +1,35 @@
+
+{
+  "index": "Terms and conditions",
+  "about": {
+    "title": "About us",
+    "type": "page"
+  },
+
+  "Legal Hub": {
+    "title": "Legal Hub",
+    "type": "page",
+    "href": "https://check-red.vercel.app/",
+    "newWindow": false },
+
+    "Configurator": {
+      "title": "Price Configurator ↗",
+      "type": "page",
+      "href": "https://vinylmasters-ltd.uk/Price-Configurator",
+      "newWindow": true },
+
+      "contact": {
+        "title": "Request Quotation ↗",
+        "type": "page",
+        "href": "https://vinylmasters-ltd.uk/#Contact",
+        "newWindow": true },
+    
+
+    "Main Page": {
+      "title": "Go back to main website ↗",
+      "type": "page",
+      "href": "https://vinylmasters-ltd.uk/",
+      "newWindow": true }
+      
+  
+}
