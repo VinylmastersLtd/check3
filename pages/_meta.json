@@ -16,10 +16,7 @@
       "newWindow": true},
       "about": {
         "title": "About us",
-        "type": "page",
-        "---": {
-          "type": "separator"
-        }
+        "type": "page"
       },
       
 
