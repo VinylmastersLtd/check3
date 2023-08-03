@@ -11,10 +11,14 @@
   "---": {
     "type": "separator"
   },
+  
 
-  "about": "About us",
-  
-  
+  "test": {
+    "about": "About us ↗",
+    "type": "page",
+    "newWindow": false},
+
+
   "price_link": {
     "title": "Price Configurator ↗",
     "href": "https://github.com/shuding/nextra",
@@ -23,7 +27,7 @@
       "title": "Request Quotation ↗",
       "href": "https://github.com/shuding/nextra",
       "newWindow": true},
-  
+
 
     "Main Page": {
       "title": "Go back to main website ↗",
