@@ -31,9 +31,14 @@ export default {
   },
 
 
-  "sidebar": {
-    "togglebutton": true
+  sidebar: {
+    titleComponent({ title, type }) {
+      if (title === 'About') {
+        return <>❓ {title}</>
+      }
+    }
   }
 
-  
- };
+};
+    
+
