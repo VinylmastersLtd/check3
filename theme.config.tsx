@@ -34,10 +34,16 @@ export default {
   sidebar: {
     titleComponent({ title, type }) {
       if (title === 'Terms and conditions') {
-        return <>❓ {title}</>
+        return <>📄 {title}</>
+      }
+      if (title === 'Privacy Policy') {
+        return <>📄 {title}</>
       }
     }
-  }
+  },
+
+
+  
 
 };
     
