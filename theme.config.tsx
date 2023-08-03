@@ -33,7 +33,7 @@ export default {
 
   sidebar: {
     titleComponent({ title, type }) {
-      if (title === 'About') {
+      if (title === 'Terms and conditions') {
         return <>❓ {title}</>
       }
     }
