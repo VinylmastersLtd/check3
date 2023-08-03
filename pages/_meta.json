@@ -14,16 +14,14 @@
       "title": "Request Quotation ↗",
       "href": "https://github.com/shuding/nextra",
       "newWindow": true},
-      "---": {
-        "type": "separator"
+      "about": {
+        "title": "About us",
+        "type": "page",
+        "---": {
+          "type": "separator"
+        }
       },
-      "index": "Terms and conditions",
-
-  "about": {
-    "title": "About us",
-    "type": "page"
-  },
-  
+      
 
 
     "Main Page": {
