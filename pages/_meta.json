@@ -16,7 +16,8 @@
       "newWindow": true},
   "about": {
     "title": "About us",
-    "type": "page"
+    "type": "page",
+    "privacy": "Privacy Policy"
 
   
   },
