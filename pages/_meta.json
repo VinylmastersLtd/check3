@@ -13,10 +13,22 @@
   },
   
 
-  "test": {
+  "about": {
     "about": "About us ↗",
-    "type": "page",
+    "title": "Terms and conditions",
+    "type": "article",
     "newWindow": false},
+
+    "about": {
+      "title": "Terms and conditions",
+      "theme": {
+        "breadcrumb": false,
+        "footer": true,
+        "sidebar": true,
+        "toc": true,
+        "pagination": true } 
+      
+      },
 
 
   "price_link": {
