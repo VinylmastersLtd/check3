@@ -39,6 +39,9 @@ export default {
       if (title === 'Privacy Policy') {
         return <>📄 {title}</>
       }
+      if (title === 'Price Configurator') {
+        return <> {title}</>
+      }
     }
   },
 
