@@ -11,11 +11,6 @@
   "---": {
     "type": "separator"
   },
-  
- 
-    "about": {
-      "title": "About us"},
-
 
 
   "price_link": {
@@ -43,7 +38,10 @@
           "toc": true,
           "pagination": true } 
         
-        }
+        },
+
+        "about": {
+          "title": "About us"}
 
     }
 
