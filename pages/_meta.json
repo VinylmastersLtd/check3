@@ -12,22 +12,10 @@
     "type": "separator"
   },
   
-
-  "about": {
-    "title": "yo",
-    "type": "article",
-    "newWindow": false},
-
+ 
     "about": {
-      "title": "Terms and conditions",
-      "theme": {
-        "breadcrumb": false,
-        "footer": true,
-        "sidebar": true,
-        "toc": true,
-        "pagination": true } 
-      
-      },
+      "title": "About us"},
+
 
 
   "price_link": {
