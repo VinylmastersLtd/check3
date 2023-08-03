@@ -11,6 +11,9 @@
   "---": {
     "type": "separator"
   },
+
+  "about": "About us",
+  
   
   "price_link": {
     "title": "Price Configurator ↗",
