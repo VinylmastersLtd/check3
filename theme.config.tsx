@@ -40,7 +40,11 @@ export default {
         return <>📄 {title}</>
       }
       if (title === 'PriceConfigurator') {
-        return <> {title}</>
+        return <>📄 {title}</>
+      }
+      if (title === 'Cookies') {
+        return <>📄 {title}</>
+      }
       }
     }
   },
