@@ -39,7 +39,7 @@ export default {
       if (title === 'Privacy Policy') {
         return <>📄 {title}</>
       }
-      if (title === 'Price Configurator') {
+      if (title === 'Price') {
         return <>📄 {title}</>
       }
       if (title === 'Cookies') {
