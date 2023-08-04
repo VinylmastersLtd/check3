@@ -44,10 +44,10 @@ export default {
       }
       if (title === 'Cookies') {
         return <>📄 {title}</>
-      }
+
       }
     }
-  },
+  }
 
 
   
