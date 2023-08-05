@@ -43,6 +43,7 @@
         "about": {
           "title": "About us",
           "theme": {
+            "typesetting": "article",
             "breadcrumb": false,
             "footer": true,
             "sidebar": true,
