@@ -46,7 +46,7 @@ export default {
         return <>📄 {title}</>
 
       }
-      if (title === 'Cookies') {
+      if (title === 'Price') {
         return <>📄 {title}</>
 
       }
