@@ -14,7 +14,7 @@
 
 
   "price_link": {
-    "title": "Price Configurator ↗",
+    "title": "Price ↗",
     "href": "https://github.com/shuding/nextra",
     "newWindow": true},
     "Request_link": {
@@ -41,7 +41,15 @@
         },
 
         "about": {
-          "title": "About us"}
+          "title": "About us",
+          "theme": {
+            "breadcrumb": false,
+            "footer": true,
+            "sidebar": true,
+            "toc": false,
+            "pagination": false } 
+          
+          }
 
     }
 
