@@ -50,13 +50,11 @@ export default {
         return <>📄 {title}</>
 
       }
-    }
+    },
+
   },
 
-  toggleButton: {
-    sidebar: 'true'
-  }
-
+  
 };
     
 
