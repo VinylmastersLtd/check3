@@ -52,6 +52,9 @@ export default {
       }
     },
 
+    sidebar: {
+      toggleButton: true,    },
+
   },
 
   
