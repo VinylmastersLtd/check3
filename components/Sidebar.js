@@ -10,8 +10,13 @@ const Sidebar = () => {
 
   return (
     <div>
+      {/* Title for the sidebar */}
+      <h2>My Sidebar Title</h2>
+
       {/* Button to toggle the sidebar */}
-      <button onClick={toggleSidebar}>Toggle Sidebar</button>
+      <button onClick={toggleSidebar}>
+        {isSidebarOpen ? 'Hide Sidebar' : 'Show Sidebar'}
+      </button>
 
       {/* Conditionally render the sidebar based on the isSidebarOpen state */}
       {isSidebarOpen && (
