@@ -45,8 +45,8 @@
           "theme": {
             "breadcrumb": false,
             "footer": true,
-            "sidebar": false,
-            "toc": false,
+            "sidebar": true,
+            "toc": true,
             "pagination": false } 
           
           }

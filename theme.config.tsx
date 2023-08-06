@@ -18,7 +18,7 @@ export default {
 
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'https://vinylmasters-ltd.uk/',
   },
 
   banner: {
@@ -51,10 +51,11 @@ export default {
 
       }
     }
+  },
+
+  toggleButton: {
+    sidebar: 'true'
   }
-
-
-  
 
 };
     
