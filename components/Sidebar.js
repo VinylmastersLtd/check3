@@ -10,6 +10,7 @@ const Sidebar = () => {
 
   return (
     <div>
+      {/* Button to toggle the sidebar */}
       <button onClick={toggleSidebar}>Toggle Sidebar</button>
 
       {/* Conditionally render the sidebar based on the isSidebarOpen state */}
