@@ -1,6 +1,6 @@
 // customLayout.js
 
-import Sidebar from 'layouts/customLayout.js/to/components/Sidebar.js';
+import Sidebar from 'components/Sidebar.js';
 
 export default function CustomLayout({ children }) {
   return (
