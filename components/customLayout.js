@@ -1,7 +1,7 @@
 // components/customLayout.js
 
 import React from 'react';
-import Sidebar from './sidebar';
+import Sidebar from 'components/Sidebar.js';
 
 const CustomLayout = ({ children }) => {
   return (
