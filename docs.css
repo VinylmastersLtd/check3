@@ -4,7 +4,7 @@
 }
 
 /* Make page full width */
-.container {
+.layout-page .container {
   margin-left: 280px; /* Adjust this value to match your sidebar width */
   max-width: calc(100% - 280px); /* Adjust this value to match your sidebar width */
 }
