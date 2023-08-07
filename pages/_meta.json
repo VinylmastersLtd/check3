@@ -1,4 +1,8 @@
 {
+  "-- Themes": {
+    "type": "separator",
+    "title": "Themes"
+  },
   "index": "Terms and conditions",
   "privacy": "Privacy Policy",
   "cookies": "Cookies",
