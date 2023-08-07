@@ -53,7 +53,9 @@ export default {
     },
 
     sidebar: {
-      toggleButton: true,    },
+      // Other sidebar settings
+      toggleButton: true, // Set this to true to show the sidebar toggle button
+    },
 
   },
 
