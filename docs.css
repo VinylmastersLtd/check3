@@ -1,14 +1,14 @@
-/* Disable right sidebar */
+/* Hide right sidebar */
 .sidebarHidden {
   display: none;
 }
 
 /* Make page full width */
-.layout-docs .w-9/12 {
-  width: 100%;
+.layout-docs .layout-wrapper {
+  grid-template-columns: 1fr;
 }
 
-.layout-docs .w-3/12 {
-  display: block;
-  width: 280px; /* Adjust this value based on your left sidebar width */
+.layout-docs .content-wrapper {
+  max-width: 100%;
+  margin: 0 auto;
 }
