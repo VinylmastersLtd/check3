@@ -1,14 +1,10 @@
-// _app.js
+// pages/_app.js
 
 import React from 'react';
-import CustomLayout from 'layouts/custom-layout'; // Adjust the path if necessary
+import '../styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
-  return (
-    <CustomLayout>
-      <Component {...pageProps} />
-    </CustomLayout>
-  );
+  return <Component {...pageProps} />;
 }
 
 export default MyApp;
