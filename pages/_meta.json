@@ -47,6 +47,7 @@
           "title": "Colour Charts test"
         },
 
+        "specificPage.js": "test",
         "id": "specificPage", 
         "title": "Specific Page", 
         "keywords": ["specific", "page", "example"],

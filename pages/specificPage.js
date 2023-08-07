@@ -1,7 +1,7 @@
 // pages/specificPage.js
 
 import React from 'react';
-import CustomLayout from '../components/customLayout';
+import CustomLayout from 'components/customLayout.js';
 
 const SpecificPage = () => {
   return (
