@@ -1,29 +1,17 @@
-// components/Sidebar.js
-import React, { useState } from 'react';
+// components/sidebar.js
+
+import React from 'react';
 
 const Sidebar = () => {
-  const [isSidebarOpen, setSidebarOpen] = useState(true);
-
-  const toggleSidebar = () => {
-    setSidebarOpen((prev) => !prev);
-  };
-
   return (
-    <div>
-      {/* Title for the sidebar */}
-      <h2>My Sidebar Title</h2>
-
-      {/* Button to toggle the sidebar */}
-      <button onClick={toggleSidebar}>
-        {isSidebarOpen ? 'Hide Sidebar' : 'Show Sidebar'}
-      </button>
-
-      {/* Conditionally render the sidebar based on the isSidebarOpen state */}
-      {isSidebarOpen && (
-        <div>
-          {/* Your sidebar content goes here */}
-        </div>
-      )}
+    <div className="sidebar">
+      {/* Sidebar content */}
+      <ul>
+        <li>Link 1</li>
+        <li>Link 2</li>
+        <li>Link 3</li>
+        {/* Add more links or content as needed */}
+      </ul>
     </div>
   );
 };
