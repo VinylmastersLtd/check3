@@ -1,12 +1,13 @@
+// layouts/custom-layout.js
+
 import React from 'react';
 import { Layout } from 'nextra';
-import Sidebar from '../components/Sidebar'; // Adjust the path according to your folder structure
 
 const CustomLayout = ({ config, children }) => {
   return (
     <Layout config={config}>
       <div style={{ display: 'flex' }}>
-        <Sidebar />
+        {/* No Sidebar component */}
         <div style={{ flex: '1' }}>{children}</div>
       </div>
     </Layout>
