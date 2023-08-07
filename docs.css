@@ -12,3 +12,7 @@
   display: block;
   width: 280px; /* Adjust this value based on your left sidebar width */
 }
+
+.xl\:nx-block {
+  display: none;
+}
