@@ -13,7 +13,6 @@
   },
 
   "-- Our Company": {
-    "type": "separator",
     "title": "Our Company"
   },
 
@@ -21,10 +20,10 @@
     "title": "About us",
     "type": "page"
   },
+  
   "---": {
     "type": "separator"
   },
-
 
   "-- Website Links": {
     "type": "separator",
