@@ -38,18 +38,6 @@
         "href": "https://github.com/shuding/nextra",
         "newWindow": true},
 
-        "--": {
-          "type": "separator"
-        },
-
-        "-- Colour_Links": {
-          "type": "separator",
-          "title": "Colour Charts"
-        },
-
-        "test": "test",
-
-
     "Main Page": {
       "title": "Go back to main website ↗",
       "type": "page",
@@ -63,10 +51,8 @@
           "footer": true,
           "sidebar": true,
           "toc": true,
-          "pagination": true } 
+          "pagination": true }
         
         }
-
       
     }
-
