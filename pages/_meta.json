@@ -20,7 +20,10 @@
     "type": "separator"
   },
 
-
+  "-- Website Links": {
+    "type": "separator",
+    "title": "Website Links"
+  },
   "price_link": {
     "title": "Price ↗",
     "href": "https://github.com/shuding/nextra",
