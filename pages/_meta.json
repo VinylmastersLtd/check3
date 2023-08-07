@@ -22,13 +22,21 @@
     "type": "page"
   },
   "price_link": {
-    "title": "Price ↗",
+    "title": "Price Configurator ↗",
     "href": "https://github.com/shuding/nextra",
     "newWindow": true},
     "Request_link": {
       "title": "Request Quotation ↗",
       "href": "https://github.com/shuding/nextra",
       "newWindow": true},
+      "Products_link": {
+        "title": "Stools and Components ↗",
+        "href": "https://github.com/shuding/nextra",
+        "newWindow": true},
+      "Contact_link": {
+        "title": "Contact us ↗",
+        "href": "https://github.com/shuding/nextra",
+        "newWindow": true},
 
 
     "Main Page": {
