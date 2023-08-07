@@ -1,9 +1,10 @@
 /* Disable right sidebar */
 .sidebarHidden {
-  max-width: 100%;
+  display: none;
 }
 
 /* Make page full width */
 .container {
-  max-width: 100%;
+  margin-left: 280px; /* Adjust this value to match your sidebar width */
+  max-width: calc(100% - 280px); /* Adjust this value to match your sidebar width */
 }
