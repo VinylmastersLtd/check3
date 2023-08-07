@@ -1,15 +1,15 @@
 {
   "-- Important Documents": {
     "type": "separator",
-    "title": "Themes"
+    "title": "Important Documents"
   },
   "index": "Terms and conditions",
   "privacy": "Privacy Policy",
   "cookies": "Cookies",
   "acceptable-use": "Acceptable use policy",
-  "-- Misc": {
+  "-- Our Company": {
     "type": "separator",
-    "title": "Themes"
+    "title": "Our Company"
   },
   "about": {
     "title": "About us",
