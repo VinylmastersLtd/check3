@@ -12,15 +12,21 @@
     "type": "separator"
   },
 
-  "-- Website Links": {
+  "-- Our Company": {
     "type": "separator",
-    "title": "Website Links"
+    "title": "Our Company"
   },
 
   "about": {
     "title": "About us",
     "type": "page"
   },
+  "-- Website Links": {
+    "type": "separator",
+    "title": "Website Links"
+  },
+
+
   "price_link": {
     "title": "Price Configurator ↗",
     "href": "https://github.com/shuding/nextra",
