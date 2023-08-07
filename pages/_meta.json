@@ -17,7 +17,6 @@
     "title": "Website Links"
   },
 
-
   "About_link": {
     "title": "About us ↗",
     "href": "https://github.com/shuding/nextra",
@@ -48,6 +47,9 @@
           "title": "Colour Charts"
         },
 
+        "test": "test",
+
+
     "Main Page": {
       "title": "Go back to main website ↗",
       "type": "page",
@@ -66,6 +68,5 @@
         }
 
       
-
     }
 
