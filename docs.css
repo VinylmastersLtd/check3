@@ -1,10 +1,14 @@
-.full-width-page {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+/* Disable right sidebar */
+.sidebarHidden {
+  display: none;
 }
 
-.full-width-page .wrapper {
-  flex-grow: 1;
+/* Make page full width */
+.layout-docs .w-9/12 {
   width: 100%;
+}
+
+.layout-docs .w-3/12 {
+  display: block;
+  width: 280px; /* Adjust this value based on your left sidebar width */
 }
