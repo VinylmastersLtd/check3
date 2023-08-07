@@ -7,11 +7,7 @@
   "privacy": "Privacy Policy",
   "cookies": "Cookies",
   "acceptable-use": "Acceptable use policy",
-  "-- Our Company": {
-    "type": "separator",
-    "title": "Our Company"
-  },
-
+ 
   "---": {
     "type": "separator"
   },
