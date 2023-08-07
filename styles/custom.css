@@ -1,0 +1,6 @@
+/* styles/custom.css */
+
+.disable-right-sidebar .right-sidebar {
+    display: none;
+  }
+  
