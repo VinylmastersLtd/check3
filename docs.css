@@ -13,6 +13,8 @@
   width: 280px; /* Adjust this value based on your left sidebar width */
 }
 
-.layout-docs .nx-w-64 {
-  width: 1rem!important
+@media (min-width: 1280px)
+.xl\:nx-block {
+    display: none;
 }
+
