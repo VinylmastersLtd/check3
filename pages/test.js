@@ -1,11 +1,11 @@
 // specificPage.js
 
-import CustomLayout from '/..components/customLayout';
+import CustomLayout from '../components/customLayout';
 
 export default function SpecificPage() {
   return (
     <CustomLayout>
-      {hello}
+      {Hello}
     </CustomLayout>
   );
 }

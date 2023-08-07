@@ -2,7 +2,7 @@
 
 import Sidebar from 'components/Sidebar.js';
 
-export default function CustomLayout({ children }) {
+export default function customLayout({ children }) {
   return (
     <div>
       <Sidebar />
