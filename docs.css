@@ -4,7 +4,11 @@
 }
 
 /* Make page full width */
-.layout-page .container {
-  margin-left: 280px; /* Adjust this value to match your sidebar width */
-  max-width: calc(100% - 280px); /* Adjust this value to match your sidebar width */
+.layout-docs .w-9/12 {
+  width: 100%;
+}
+
+.layout-docs .w-3/12 {
+  display: block;
+  width: 280px; /* Adjust this value based on your left sidebar width */
 }
