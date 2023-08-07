@@ -12,7 +12,7 @@
     "type": "separator"
   },
 
-  "-- Website Links": {
+  "-- Website_Links": {
     "type": "separator",
     "title": "Website Links"
   },
@@ -38,6 +38,16 @@
         "title": "Contact us ↗",
         "href": "https://github.com/shuding/nextra",
         "newWindow": true},
+
+        "---": {
+          "type": "separator"
+        },
+
+        "-- Colour_Links": {
+          "type": "separator",
+          "title": "Colour Charts"
+        },
+      
 
 
     "Main Page": {
