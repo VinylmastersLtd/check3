@@ -1,11 +1,13 @@
 // pages/example.mdx
 
-import CustomLayout from '../layouts/custom-layout'; 
+---
+title: Example Page
+---
 
-export default function Example() {
-  return (
-    <CustomLayout>
-      {/* Your MDX content goes here */}
-    </CustomLayout>
-  );
-}
+import CustomLayout from '/layouts/custom-layout';
+
+<CustomLayout>
+  # Your MDX Content Goes Here
+
+  This is an example MDX page using the custom layout.
+</CustomLayout>
