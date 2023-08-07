@@ -11,13 +11,14 @@
     "type": "separator",
     "title": "Our Company"
   },
-  "about": {
-    "title": "About us",
-    "type": "page"
-  },
 
   "---": {
     "type": "separator"
+  },
+
+  "about": {
+    "title": "About us",
+    "type": "page"
   },
 
   "-- Website Links": {
