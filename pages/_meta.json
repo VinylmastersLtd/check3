@@ -12,26 +12,16 @@
     "type": "separator"
   },
 
-  "-- Our Company": {
-    "type": "separator",
-    "title": "Our Company"
-  },
-
-  "about": {
-    "title": "About us",
-    "type": "page"
-  },
-  
-  "--": {
-    "type": "separator"
-  },
-
   "-- Website Links": {
     "type": "separator",
     "title": "Website Links"
   },
 
 
+  "About_link": {
+    "title": "About us ↗",
+    "href": "https://github.com/shuding/nextra",
+    "newWindow": true},
   "price_link": {
     "title": "Price Configurator ↗",
     "href": "https://github.com/shuding/nextra",
