@@ -48,6 +48,7 @@
         },
 
         "specificPage.js": "test",
+        "specificPage": "test1",
         "id": "specificPage", 
         "title": "Specific Page", 
         "keywords": ["specific", "page", "example"],
