@@ -12,14 +12,14 @@
     "type": "separator"
   },
 
-  "about": {
-    "title": "About us",
-    "type": "page"
-  },
-
   "-- Website Links": {
     "type": "separator",
     "title": "Website Links"
+  },
+
+  "about": {
+    "title": "About us",
+    "type": "page"
   },
   "price_link": {
     "title": "Price ↗",
