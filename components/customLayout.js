@@ -1,12 +1,15 @@
-// customLayout.js
+// components/customLayout.js
 
-import Sidebar from 'components/Sidebar.js';
+import React from 'react';
+import Sidebar from './sidebar';
 
-export default function customLayout({ children }) {
+const CustomLayout = ({ children }) => {
   return (
     <div>
       <Sidebar />
       <main>{children}</main>
     </div>
   );
-}
+};
+
+export default CustomLayout;
