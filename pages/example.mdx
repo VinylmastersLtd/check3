@@ -1,26 +1,12 @@
 import CustomLayout from 'pages/CustomLayout.js';
 
-export default function MyPage() {
-  return (
-    <CustomLayout disableSidebar>
-      {<iframe
-     src="https://belmontdental.co.uk/wp-content/uploads/2019/12/201810_Belmont_CATALOGUE_COLOURCHART-EN.pdf"
-    width="100%"
-    height="500px"
-    title="SWR-States"
-  />}
-    </CustomLayout>
-  );
-}
-
-
-
-
-
+<CustomLayout disableRightSidebar>
 <iframe
      src="https://belmontdental.co.uk/wp-content/uploads/2019/12/201810_Belmont_CATALOGUE_COLOURCHART-EN.pdf"
     width="100%"
     height="500px"
     title="SWR-States"
-  />
+     />
+      </CustomLayout>
+  
 

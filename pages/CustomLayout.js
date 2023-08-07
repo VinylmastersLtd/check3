@@ -1,8 +1,12 @@
 import { Layout } from 'nextra';
-export default function CustomLayout({ disableSidebar, children }) {
+
+export default function CustomLayout({ disableRightSidebar, children }) {
     return (
-      <Layout sidebar={disableSidebar ? null : undefined}>
-        {children}
+      <Layout>
+        {!disableRightSidebar && <div className="sidebar-right">Right Sidebar Content</div>}
+        <div className={`container ${disableRightSidebar ? 'full-width' : ''}`}>
+          {children}
+        </div>
       </Layout>
     );
   }
