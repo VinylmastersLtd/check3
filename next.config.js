@@ -1,16 +1,7 @@
-import React from 'react';
-import { Layout } from 'nextra';
-import Sidebar from '../components/Sidebar'; // Adjust the path according to your folder structure
+const withNextra = require('nextra')({
+  theme: 'nextra-theme-docs',
+  themeConfig: './theme.config.tsx',
+})
 
-const CustomLayout = ({ config, children }) => {
-  return (
-    <Layout config={config}>
-      <div style={{ display: 'flex' }}>
-        <Sidebar />
-        <div style={{ flex: '1' }}>{children}</div>
-      </div>
-    </Layout>
-  );
-};
+module.exports = withNextra()
 
-export default CustomLayout;
