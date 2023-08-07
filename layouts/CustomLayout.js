@@ -1,6 +1,8 @@
 // Import the necessary components and hooks
 
 import DocsLayout from 'nextra-theme-docs/layout';
+import styles from 'styles.module.css';
+
 
 // Define a custom layout component
 const CustomLayout = (props) => {
@@ -21,5 +23,7 @@ const CustomLayout = (props) => {
     />
   );
 };
+
+
 
 export default CustomLayout;
