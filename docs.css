@@ -1,0 +1,9 @@
+/* Disable right sidebar */
+.sidebarHidden {
+  max-width: 100%;
+}
+
+/* Make page full width */
+.container {
+  max-width: 100%;
+}
