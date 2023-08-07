@@ -1,5 +1,5 @@
 {
-  "-- Themes": {
+  "-- Important Documents": {
     "type": "separator",
     "title": "Themes"
   },
@@ -7,6 +7,10 @@
   "privacy": "Privacy Policy",
   "cookies": "Cookies",
   "acceptable-use": "Acceptable use policy",
+  "-- Misc": {
+    "type": "separator",
+    "title": "Themes"
+  },
   "about": {
     "title": "About us",
     "type": "page"
