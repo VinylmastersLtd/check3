@@ -55,18 +55,9 @@
           "toc": true,
           "pagination": true } 
         
-        },
+        }
 
-        "about": {
-          "title": "About us",
-          "theme": {
-            "breadcrumb": false,
-            "footer": true,
-            "sidebar": true,
-            "toc": true,
-            "pagination": false } 
-          
-          }
+      
 
     }
 
